@@ -366,4 +366,16 @@ calendar week text={%
 }
 }
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Impresión de capturas de pantalla
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\graphicspath{{Capturas/}}
+\newcommand{\printCaptura}[2]{
+    \begin{figure}
+        \centering
+        \includegraphics{#1}
+        \caption{#2}
+    \end{figure}
+}
+
