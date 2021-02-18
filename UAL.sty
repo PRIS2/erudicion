@@ -8,6 +8,15 @@
 \RequirePackage{transparent}
 \RequirePackage[scaled=0.95]{helvet}
 \RequirePackage{pgfgantt}
+\RequirePackage{newfloat}
+%\DeclareFloatingEnvironment[fileext=loc,listname=Capturas,name=Captura,placement=htbp,within=section,chapterlistsgaps=off,]{capturas}
+
+%\newcounter{contadorDeCapturas}
+%\newfloat{Captura}{thp}[numerador]
+ 
+ \newcounter{numerador}[section]
+ \newenvironment{numerador}[1][]{\refstepcounter{numerador}\par\medskip
+   \textbf{Example~\theexample. #1} \rmfamily}{\medskip}
 
 
 %%%%%%%%%%%%%%%% Dimensiones
@@ -370,16 +379,26 @@ calendar week text={%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Impresión de capturas de pantalla
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\graphicspath{{Capturas/}}
+%\newcommand{\printCaptura}[2]{
+%    \begin{figure}
+%        \centering
+%        \includegraphics{#1}
+%        \caption{#2}
+%    \end{figure}
+%}
+
 \graphicspath{{Capturas/}}
 \newcommand{\printCaptura}[2]{
-    \begin{figure}
+    \begin{Captura}
+%        \newfloat{#1}{#2}     %% Float de artefacto requisito 
         \centering
         \includegraphics{#1}
         \caption{#2}
-    \end{figure}
-}
-
-\newfloat{Captura}{h}{ext}
-    \centering
-
-
+        \setlength{\parskip}{3mm}     % !
+        \setlength{\parindent}{3mm}   % !
+        \frenchspacing
+        \sloppy
+ \end{Captura}
+  }
