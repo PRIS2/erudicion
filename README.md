@@ -55,9 +55,6 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 en el archivo **contenido2.tex** y como queda el resultado.
 
 ![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
-
-
-- Las distintas capturas:
 ![Capturas](/imagesReadme/capturas.png "Capturas")
 
 - Por último se ha añadido la lista de capturas justo debajo del índice de listados en el archivo **indicesyrefe.tex**.
