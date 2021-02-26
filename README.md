@@ -49,7 +49,7 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
-![Metodo print](/imagesReadme/ejemplo_de _funcionamiento.png "Metodo print")
+![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
 
 
 
