@@ -44,6 +44,7 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 
 - La primera parte sería la importacion del paquete **newfloat** y la creacion de un nuevo entorno en **UAL.sty**.
 ![Creacion del entorno](/imagesReadme/nuevo_entorno.png "Creacion del entorno")
+
 -Creamos un comando con el cual indicamos los parametros que se la pesaran ademas de centrar la imagen.
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
