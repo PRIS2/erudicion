@@ -50,7 +50,8 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 - Creamos un comando con el cual indicamos los parametros que se la pesaran ademas de centrar la imagen.
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 
-- Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
+- Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros 
+en el archivo **contenido2.tex** y como queda el resultado.
 ![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
 
 
