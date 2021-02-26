@@ -17,7 +17,7 @@ Proyecto basado en Latex.
 
 ![Primera iteración](/imagesReadme/pruebaCapturas.png "Primera iteración")
 - La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
--
+
 ![Primera rueba con newfloats](/imagesReadme/newfloat.png "Primera rueba con newfloats")
 ![Creacion de capturas en su propio entorno](/imagesReadme/figuras_capturas.png "Creacion de capturas en su propio entorno")
 
