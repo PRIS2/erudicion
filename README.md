@@ -14,10 +14,10 @@ Proyecto basado en Latex.
 # Reuniones
 
 - La reunión inicial del grupo se realizó el sábado 13 de febrero de 2020 a las 15:15 horas con la asistencia de todos los miembros hicimos un primer modelo mediante la utilización de figuras. La profesora propuso una modificación del modelo para una mayor completitud de la tarea.
-![Primera iteración](/imagesReadme/"pruebaCapturas.png" "Primera iteración")
+![Primera iteración](/imagesReadme/pruebaCapturas.png "Primera iteración")
 - La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
-![Primera rueba con newfloats](/imagesReadme/"newfloat.png" "Primera rueba con newfloats")
-![Creacion de capturas en su propio entorno](/imagesReadme/"figuras_capturas.png" "Creacion de capturas en su propio entorno")
+![Primera rueba con newfloats](/imagesReadme/newfloat.png "Primera rueba con newfloats")
+![Creacion de capturas en su propio entorno](/imagesReadme/figuras_capturas.png "Creacion de capturas en su propio entorno")
 - La cuarta reunión se realizó el sábado 20 de febrero de 2020 a las 10:00 horas terminó de realizar el índice únicamente Juan Pablo Grosso Tarazaga.
 - La última reunión se realizó el viernes 26 de febrero de 2020 a las 15:00 horas con la asistencia de todos los miembros. Se llevó a cabo la documentación del proyecto.
 
@@ -43,11 +43,11 @@ Se realizarón bastantes procesos de documentación para la tarea encomendada, s
 Tras realizar los cambios propuestos tras la primera iteración, el resultado del codigo quedaria del siguiente modo.
 
 - La primera parte sería la importacion del paquete **newfloat** y la creacion de un nuevo entorno en **UAL.sty**.
-![Creacion del entorno](/imagesReadme/"nuevo_entorno.png" "Creacion del entorno")
+![Creacion del entorno](/imagesReadme/nuevo_entorno.png "Creacion del entorno")
 -Creamos un comando con el cual indicamos los parametros que se la pesaran ademas de centrar la imagen.
-![Metodo print](/imagesReadme/"funcion_print.png" "Metodo print")
+![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
-![Metodo print](/imagesReadme/"ejemplo_de_funcionamiento.png" "Metodo print")
-![Capturas](/imagesReadme/"capturas.png" "Capturas")
+![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
+![Capturas](/imagesReadme/capturas.png "Capturas")
 -Por último se ha añadido la lista de capturas justo debajo del indice de listados en el archivo **indicesyrefe.tex**.
-![Lista de capturas](/imagesReadme/"listado_de_capturas.png" "Lista de capturas")
+![Lista de capturas](/imagesReadme/listado_de_capturas.png "Lista de capturas")
