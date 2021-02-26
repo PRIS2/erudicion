@@ -13,7 +13,8 @@ Proyecto basado en Latex.
 
 # Reuniones
 
-- La reunión inicial del grupo se realizó el sábado 13 de febrero de 2020 a las 15:15 horas con la asistencia de todos los miembros hicimos un primer modelo mediante la utilización de figuras. La profesora propuso una modificación del modelo para una mayor completitud de la tarea.
+- La reunión inicial del grupo se realizó el sábado 13 de febrero de 2020 a las 15:15 horas con la asistencia de todos los miembros hicimos un primer modelo mediante la utilización de figuras. La profesora propuso una modificación del modelo para una mayor completitud de la tarea.  
+
 ![Primera iteración](/imagesReadme/pruebaCapturas.png "Primera iteración")
 - La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
 ![Primera rueba con newfloats](/imagesReadme/newfloat.png "Primera rueba con newfloats")
@@ -51,7 +52,7 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros 
-en el archivo **contenido2.tex** y como queda el resultado.![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
+en el archivo **contenido2.tex** y como queda el resultado.                                                                                                                                        ![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
 
 
 - Las distintas capturas:
