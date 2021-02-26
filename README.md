@@ -20,6 +20,8 @@ Proyecto basado en Latex.
 ![Creacion de capturas en su propio entorno](/imagesReadme/figuras_capturas.png "Creacion de capturas en su propio entorno")
 - La cuarta reunión se realizó el sábado 20 de febrero de 2020 a las 10:00 horas terminó de realizar el índice únicamente Juan Pablo Grosso Tarazaga.
 - La última reunión se realizó el viernes 26 de febrero de 2020 a las 15:00 horas con la asistencia de todos los miembros. Se llevó a cabo la documentación del proyecto.
+- Aquí mostramos el panel con todos los distintos issues y la información asociada a ellos que tenemos en github.
+![Lista de capturas](/imagesReadme/organizacion_de_issues.png "Panel del proyecto")
 
 # Documentación
 
@@ -49,7 +51,6 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
 
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
-
 ![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
 
 
@@ -58,3 +59,5 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 
 - Por último se ha añadido la lista de capturas justo debajo del índice de listados en el archivo **indicesyrefe.tex**.
 ![Lista de capturas](/imagesReadme/listado_de_capturas.png "Lista de capturas")
+
+
