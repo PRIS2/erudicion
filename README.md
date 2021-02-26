@@ -13,10 +13,10 @@ Proyecto basado en Latex.
 
 # Reuniones
 
-La reunión inicial del grupo se realizó el sábado 13 de febrero de 2020 a las 15:15 horas con la asistencia de todos los miembros hicimos un primer modelo mediante la utilización de figuras. La profesora propuso una modificación del modelo para una mayor completitud de la tarea.
-La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
-La cuarta reunión se realizó el sábado 20 de febrero de 2020 a las 10:00 horas terminó de realizar el índice únicamente Juan Pablo Grosso Tarazaga.
-La última reunión se realizó el viernes 26 de febrero de 2020 a las 15:00 horas excusando su ausencia Aarón Blanco Álvarez. Se llevó a cabo la documentación del proyecto.
+- La reunión inicial del grupo se realizó el sábado 13 de febrero de 2020 a las 15:15 horas con la asistencia de todos los miembros hicimos un primer modelo mediante la utilización de figuras. La profesora propuso una modificación del modelo para una mayor completitud de la tarea.
+- La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
+- La cuarta reunión se realizó el sábado 20 de febrero de 2020 a las 10:00 horas terminó de realizar el índice únicamente Juan Pablo Grosso Tarazaga.
+- La última reunión se realizó el viernes 26 de febrero de 2020 a las 15:00 horas excusando su ausencia Aarón Blanco Álvarez. Se llevó a cabo la documentación del proyecto.
 
 # Documentación
 
