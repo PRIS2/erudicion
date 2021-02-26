@@ -47,8 +47,10 @@ Tras realizar los cambios propuestos tras la primera iteración, el resultado de
 
 -Creamos un comando con el cual indicamos los parametros que se la pesaran ademas de centrar la imagen.
 ![Metodo print](/imagesReadme/funcion_print.png "Metodo print")
+
 - Aquí podremos ver un ejemplo de implementación del método con sus respectivos parametros en el archivo **contenido2.tex** y como queda el resultado.
 ![Metodo print](/imagesReadme/ejemplo_de_funcionamiento.png "Metodo print")
 ![Capturas](/imagesReadme/capturas.png "Capturas")
+
 -Por último se ha añadido la lista de capturas justo debajo del indice de listados en el archivo **indicesyrefe.tex**.
 ![Lista de capturas](/imagesReadme/listado_de_capturas.png "Lista de capturas")
