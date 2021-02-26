@@ -17,11 +17,14 @@ Proyecto basado en Latex.
 
 ![Primera iteración](/imagesReadme/pruebaCapturas.png "Primera iteración")
 - La segunda reunión se realizó el jueves 18 de febrero de 2020 a las 9:15 horas excusando su ausencia Miguel Ángel Puertas Sánchez y Ramón Francisco Ramos Tristán, realizamos la modificación propuesta por la profesora y efectuamos una segunda propuesta quedando únicamente la creación de la sección del índice.
+-
 ![Primera rueba con newfloats](/imagesReadme/newfloat.png "Primera rueba con newfloats")
 ![Creacion de capturas en su propio entorno](/imagesReadme/figuras_capturas.png "Creacion de capturas en su propio entorno")
+
 - La cuarta reunión se realizó el sábado 20 de febrero de 2020 a las 10:00 horas terminó de realizar el índice únicamente Juan Pablo Grosso Tarazaga.
 - La última reunión se realizó el viernes 26 de febrero de 2020 a las 15:00 horas con la asistencia de todos los miembros. Se llevó a cabo la documentación del proyecto.
 - Aquí mostramos el panel con todos los distintos issues y la información asociada a ellos que tenemos en github.
+
 ![Lista de capturas](/imagesReadme/organizacion_de_issues.png "Panel del proyecto")
 
 # Documentación
@@ -60,7 +63,7 @@ en el archivo **contenido2.tex** y como queda el resultado.
 ![Capturas](/imagesReadme/capturas.png "Capturas")
 
 - Por último se ha añadido la lista de capturas justo debajo del índice de listados en el archivo **indicesyrefe.tex**.
--
+
 ![Lista de capturas](/imagesReadme/listado_de_capturas.png "Lista de capturas")
 
 
