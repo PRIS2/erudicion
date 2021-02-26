@@ -56,7 +56,6 @@ en el archivo **contenido2.tex** y como queda el resultado.                     
 
 
 - Las distintas capturas:
-
 ![Capturas](/imagesReadme/capturas.png "Capturas")
 
 - Por último se ha añadido la lista de capturas justo debajo del índice de listados en el archivo **indicesyrefe.tex**.
