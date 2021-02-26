@@ -9,14 +9,20 @@
 \RequirePackage[scaled=0.95]{helvet}
 \RequirePackage{pgfgantt}
 \RequirePackage{newfloat}
-%\DeclareFloatingEnvironment[fileext=loc,listname=Capturas,name=Captura,placement=htbp,within=section,chapterlistsgaps=off,]{capturas}
+
+%\newfloat{Captura}{thp}[]
+\DeclareFloatingEnvironment[fileext=loc,listname=Capturas,name=Captura,placement=htbp,within=section,chapterlistsgaps=off,]{Captura}
+
+%\DeclareFloatingEnvironment{Captura}
 
 %\newcounter{contadorDeCapturas}
 %\newfloat{Captura}{thp}[numerador]
- 
- \newcounter{numerador}[section]
- \newenvironment{numerador}[1][]{\refstepcounter{numerador}\par\medskip
-   \textbf{Example~\theexample. #1} \rmfamily}{\medskip}
+
+
+
+% \newcounter{numerador}[section]
+% \newenvironment{numerador}[1][]{\refstepcounter{numerador}\par\medskip
+%   \textbf{Example~\theexample. #1} \rmfamily}{\medskip}
 
 
 %%%%%%%%%%%%%%%% Dimensiones
